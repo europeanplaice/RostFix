@@ -23,3 +23,16 @@ In console
 cargo run sample.rf 1
 => 4
 ```
+
+
+
+`sample.rf`
+```
+rostfix 1 4 add 5 mul 6 sub 7 div
+```
+
+In console
+```
+cargo run sample.rf 3
+=> 4
+```
